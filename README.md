@@ -1,3 +1,5 @@
+My try on implementing external headtracker input via UART CRSF for a ESP32C3 to send to ELRS Backpack VTX.
+
 # ExpressLRS Backpack
 
 [![Release](https://img.shields.io/github/v/release/ExpressLRS/Backpack?include_prereleases)](https://github.com/ExpressLRS/Backpack/releases)
